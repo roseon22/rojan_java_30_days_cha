@@ -7,7 +7,8 @@ public class pattern{
                 System.out.print("*");
 
             }
-            System.out.println(" Hellow Word! qqqqq");
+            System.out.println(" Hellow Word! sssss");
+            System.out.println(" ! sssss");
         }
     }
 
